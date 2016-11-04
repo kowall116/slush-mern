@@ -1,14 +1,14 @@
-# Slush Slush-mern [![Build Status](https://secure.travis-ci.org/kowall116/slush-slush-mern.png?branch=master)](https://travis-ci.org/kowall116/slush-slush-mern) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-mern.png)](http://badges.enytc.com/for/npm/slush-slush-mern)
+# Slush Mern [![Build Status](https://secure.travis-ci.org/kowall116/slush-mern.png?branch=master)](https://travis-ci.org/kowall116/slush-mern) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-mern.png)](http://badges.enytc.com/for/npm/slush-mern)
 
 > 
 
 
 ## Getting Started
 
-Install `slush-slush-mern` globally:
+Install `slush-mern` globally:
 
 ```bash
-$ npm install -g slush-slush-mern
+$ npm install -g slush-mern
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-mern
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-mern
+$ mkdir my-slush-mern
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-mern && slush slush-mern
+$ cd my-slush-mern && slush slush-mern
 ```
 
 ## Getting To Know Slush
@@ -35,10 +35,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/kowall116/slush-slush-mern/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/kowall116/slush-mern/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/kowall116/slush-slush-mern/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/kowall116/slush-mern/issues).
 
 ## License 
 
