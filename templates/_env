@@ -1,0 +1,12 @@
+PORT=3000
+
+MAILGUN_USERNAME='postmaster@sandbox67c118365e564798a8864434e4b2a3cb.mailgun.org'
+MAILGUN_PASSWORD='ed49d942fd9e6c11208ee3aacb29df9d'
+
+MONGODB='mongodb://localhost/<%= appNameSlug %>'
+
+TOKEN_SECRET='c6e6df03ddfa7923bc894f13e5cdd081842b48ee2f89d00ddcfecf6582b2b20e'
+
+FACEBOOK_SECRET='fb9416c436edd2690c6f6adbd94374d1'
+
+GOOGLE_SECRET='SyXmZcdT6vPFeqcs0jaPhdVP'
