@@ -22,7 +22,7 @@ $ mkdir my-slush-mern
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-mern && slush slush-mern
+$ cd my-slush-mern && slush mern
 ```
 
 ## Getting To Know Slush
